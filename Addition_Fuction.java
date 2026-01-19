@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Addition{
+public class Addition_Fuction{
     static void add(Scanner input){
         System.out.println("Enter the first number");
         int a=input.nextInt();
